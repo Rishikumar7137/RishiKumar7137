@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?RishiKumar7137" frameborder="0"></iframe>
+
 <!--
 **Rishikumar7137/RishiKumar7137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
