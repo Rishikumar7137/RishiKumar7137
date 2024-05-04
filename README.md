@@ -29,8 +29,8 @@
     <a href="https://codeforces.com/profile/Rishi_Kumar_Singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Rishi_Kumar_Singh" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/infinity_37" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" alt="Rishi_Kumar_Singh" height="30" width="40" /></a>
     <a href="https://leetcode.com/7137rishi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Rishi_Kumar_Singh" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/prakash_divya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Rishi_Kumar_Singh" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/im-divyaprakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishi_Kumar_Singh" height="30" width="40" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/rishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Rishi_Kumar_Singh" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/infinity37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishi_Kumar_Singh" height="30" width="40" /></a>
     
 
 </div>
