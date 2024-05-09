@@ -13,9 +13,9 @@
 <div align = "center">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=RishiKumar7137&label=Profile%20views&color=0e75b6&style=flat" alt="RishiKumar7137" /> </p>
     <ul type = "none">
-        <li>😎 I'm a pre-final year student pursuing <b>Bachelor of Engineering</b> in <b>Information Technology</b>.</li>
-        <li>🌱 I’m currently learning Web Technologies.</li>
-        <li>📫 Mail me at <i><b>7137rishi@gmail.com</b></i></li>
+        <li>😎 I'm a second year student pursuing <b>Bachelor of Engineering</b> in <b>Information Technology</b>.</li>
+        <li>🌱 My interests lie in competitive programming and Web Development. I love to explore and expand my knowledge while learning about various algorithms and languages.</li>
+        <li>📫 Mail: <i><b>7137rishi@gmail.com</b></i></li>
     </ul>
 </div>
 <br>
