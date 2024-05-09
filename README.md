@@ -42,11 +42,13 @@
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,golang,html" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,mysql" />
     <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,react,bootstrap,css" />
+    <img src="https://skillicons.dev/icons?i=html,css,mongodb,express,react,nodejs" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,github,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=tailwind,npm,tensorflow,git,github,firebase" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,eclipse,figma,notion" />
     <br>
 </div>
 <br>
