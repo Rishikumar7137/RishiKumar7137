@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F05A30&background=D3D3D393&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Rishi+Kumar+Singh" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Rishi+Kumar+Singh;I am a Competitive Programmer; Web Developer and ML Enthusiast" />
 </h1>
 
 <hr>
@@ -14,7 +14,7 @@
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=RishiKumar7137&label=Profile%20views&color=0e75b6&style=flat" alt="RishiKumar7137" /> </p>
     <ul type = "none">
         <li>😎 I'm a second year student pursuing <b>Bachelor of Engineering</b> in <b>Information Technology</b>.</li>
-        <li>🌱 My interests lie in competitive programming and Web Development.</li>
+        <li>🌱 My interests lie in competitive programming, Web Development and Machine Learning.</li>
         <li>I love to explore and expand my knowledge while learning about various algorithms and languages.</li>
         <li>📫 Mail: <i><b>7137rishi@gmail.com</b></i></li>
     </ul>
