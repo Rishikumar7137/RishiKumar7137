@@ -72,6 +72,7 @@
 
 <br>
 <div align=center>
+    <img width=390 src="https://codeforces-readme-stats.vercel.app/api/card?username=Rishi_Kumar_Singh&theme=dark&disable_animations=false&show_icons=true&force_username=true" alt="codeforces stats" />
 <!--   <img width=390 src="https://streak-stats.demolab.com?user=RishiKumar7137&theme=react&border_radius=10" alt="streak stats"/> -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=RishiKumar7137&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <!--   <br/> -->
